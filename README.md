@@ -73,6 +73,11 @@ ames-housing-price-prediction/
 │   ├── sample_submission.csv
 │   └── data_description.txt     # Detailed feature dictionary
 │
+├── documentation/
+│   ├── Exploratory Data Analysis (EDA) Insight Log.pdf
+│   ├── Preprocessing & Feature Engineering Log.pdf
+│   └── Final Report.pdf
+│
 ├── notebooks/
 │   └── Ames_Housing_Price_Prediction.ipynb  # Core ML Pipeline
 │
