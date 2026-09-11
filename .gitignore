@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+*.pyc
+
+# Dataset (too large for git / Kaggle data should not be committed directly if not needed, although small enough, it's good practice)
+data/train.csv
+data/test.csv
+data/sample_submission.csv
+data/data_description.txt
